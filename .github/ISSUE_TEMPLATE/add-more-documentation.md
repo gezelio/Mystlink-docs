@@ -1,8 +1,8 @@
 ---
-name: Improvement
+name: Add More Documentation
 about: Outline something that you feel should be in our documentation!
 title: "[IMPROVE] - Details"
-labels: enhancement
+labels: documentation, enhancement
 assignees: tommerty
 
 ---
