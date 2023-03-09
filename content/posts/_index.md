@@ -1,5 +1,4 @@
 ---
-Title: The Tommerty Blog
+Title: Mystl.ink Docs
 
 ---
-## View my blogs below!
