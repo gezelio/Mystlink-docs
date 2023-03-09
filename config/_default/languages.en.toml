@@ -5,10 +5,10 @@ isoCode = "en"
 weight = 1
 rtl = false
 
-title = "Tommerty"
-logo = "img/author.png"
-description = "Learning what I can find, and sharing it with you"
-copyright = "Copy, _right?_ :thinking_face:"
+title = "Mystl.ink Docs"
+logo = "img/mystlink.png"
+description = "Documentation and answers to your questions"
+copyright = "Feel free to contribute to our documentation on [GitHub](https://github.com/gezelio/mystlink-docs)!"
 
 dateFormat = "January 2, 2006"
 
