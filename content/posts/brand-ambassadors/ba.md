@@ -7,7 +7,7 @@ date: 2023-03-12
 ## What do we expect from Brand Ambassadors?
 It's quite simple; to be an advocate of Mystl.ink and further Gezel things. With being a free product, this limits the amount we can advertise, and hope that the spread of word-of-mouth and promotion by our advocates helps spread the great word of Mystl.ink.
 
-This document is mainly for Mystl.ink, but that doesn't mean you can't advocate for other Gezel tools such as [GezelBot](https://bot.gezel.io/) and others. 
+***This document is mainly for Mystl.ink, but that doesn't mean you can't advocate for other Gezel tools such as [GezelBot](https://bot.gezel.io/) and others.***
 
 ### Do I get perks?
 Yeppers! We offer all Brand Ambassadors the following:
