@@ -31,3 +31,6 @@ The most important thing to remember is that we like to think of ourselves as a 
 
 ---
 
+### How do I become a Brand Ambassador (BA)?
+For this I'd recommend checking out [this article](https://helpcenter.mystlink.gezel.io/posts/brand-ambassadors/ba/)!
+
